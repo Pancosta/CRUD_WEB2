@@ -1,11 +1,3 @@
-<head>  
-    <style>  
-        .bg-dark {
-            background-color: #1F2937;
-            color: #FFFFFF;
-        }
-    </style>    
-<head>
 @extends('layouts.app')
 
 @section('content')                                   
